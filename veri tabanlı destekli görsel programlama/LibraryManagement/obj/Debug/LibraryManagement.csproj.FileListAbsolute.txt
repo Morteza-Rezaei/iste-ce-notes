@@ -1,0 +1,10 @@
+E:\dev\C#\veri tabanlı destekli görsel programlama\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+E:\dev\C#\veri tabanlı destekli görsel programlama\LibraryManagement\bin\Debug\LibraryManagement.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\dev\C#\veri tabanlı destekli görsel programlama\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\LibraryManagement\obj\Debug\LibraryManagement.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\LibraryManagement\obj\Debug\LibraryManagement.pdb

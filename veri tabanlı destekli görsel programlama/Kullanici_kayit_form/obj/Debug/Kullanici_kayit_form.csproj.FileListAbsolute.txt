@@ -1,0 +1,10 @@
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kullanici_kayit_form\bin\Debug\Kullanici_kayit_form.exe.config
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kullanici_kayit_form\bin\Debug\Kullanici_kayit_form.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kullanici_kayit_form\bin\Debug\Kullanici_kayit_form.pdb
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kullanici_kayit_form\obj\Debug\Kullanici_kayit_form.csproj.AssemblyReference.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kullanici_kayit_form\obj\Debug\Kullanici_kayit_form.Form1.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kullanici_kayit_form\obj\Debug\Kullanici_kayit_form.Properties.Resources.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kullanici_kayit_form\obj\Debug\Kullanici_kayit_form.csproj.GenerateResource.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kullanici_kayit_form\obj\Debug\Kullanici_kayit_form.csproj.CoreCompileInputs.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kullanici_kayit_form\obj\Debug\Kullanici_kayit_form.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kullanici_kayit_form\obj\Debug\Kullanici_kayit_form.pdb

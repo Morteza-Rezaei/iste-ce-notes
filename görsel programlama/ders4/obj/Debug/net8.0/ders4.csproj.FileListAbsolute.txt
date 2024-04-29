@@ -1,0 +1,14 @@
+E:\dev\C#\iste\ders4\bin\Debug\net8.0\ders4.exe
+E:\dev\C#\iste\ders4\bin\Debug\net8.0\ders4.deps.json
+E:\dev\C#\iste\ders4\bin\Debug\net8.0\ders4.runtimeconfig.json
+E:\dev\C#\iste\ders4\bin\Debug\net8.0\ders4.dll
+E:\dev\C#\iste\ders4\bin\Debug\net8.0\ders4.pdb
+E:\dev\C#\iste\ders4\obj\Debug\net8.0\ders4.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\C#\iste\ders4\obj\Debug\net8.0\ders4.AssemblyInfoInputs.cache
+E:\dev\C#\iste\ders4\obj\Debug\net8.0\ders4.AssemblyInfo.cs
+E:\dev\C#\iste\ders4\obj\Debug\net8.0\ders4.csproj.CoreCompileInputs.cache
+E:\dev\C#\iste\ders4\obj\Debug\net8.0\ders4.dll
+E:\dev\C#\iste\ders4\obj\Debug\net8.0\refint\ders4.dll
+E:\dev\C#\iste\ders4\obj\Debug\net8.0\ders4.pdb
+E:\dev\C#\iste\ders4\obj\Debug\net8.0\ders4.genruntimeconfig.cache
+E:\dev\C#\iste\ders4\obj\Debug\net8.0\ref\ders4.dll

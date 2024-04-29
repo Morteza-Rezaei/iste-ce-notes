@@ -1,0 +1,10 @@
+E:\dev\C#\veri tabanlı destekli görsel programlama\CarRentalForm\bin\Debug\CarRentalForm.exe.config
+E:\dev\C#\veri tabanlı destekli görsel programlama\CarRentalForm\bin\Debug\CarRentalForm.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\CarRentalForm\bin\Debug\CarRentalForm.pdb
+E:\dev\C#\veri tabanlı destekli görsel programlama\CarRentalForm\obj\Debug\CarRentalForm.csproj.AssemblyReference.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\CarRentalForm\obj\Debug\CarRentalForm.Form1.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\CarRentalForm\obj\Debug\CarRentalForm.Properties.Resources.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\CarRentalForm\obj\Debug\CarRentalForm.csproj.GenerateResource.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\CarRentalForm\obj\Debug\CarRentalForm.csproj.CoreCompileInputs.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\CarRentalForm\obj\Debug\CarRentalForm.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\CarRentalForm\obj\Debug\CarRentalForm.pdb

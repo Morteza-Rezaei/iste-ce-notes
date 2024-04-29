@@ -1,0 +1,10 @@
+E:\dev\C#\veri tabanlı destekli görsel programlama\FutureNotes\bin\Debug\FutureNotes.exe.config
+E:\dev\C#\veri tabanlı destekli görsel programlama\FutureNotes\bin\Debug\FutureNotes.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\FutureNotes\bin\Debug\FutureNotes.pdb
+E:\dev\C#\veri tabanlı destekli görsel programlama\FutureNotes\obj\Debug\FutureNotes.csproj.AssemblyReference.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\FutureNotes\obj\Debug\FutureNotes.Form1.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\FutureNotes\obj\Debug\FutureNotes.Properties.Resources.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\FutureNotes\obj\Debug\FutureNotes.csproj.GenerateResource.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\FutureNotes\obj\Debug\FutureNotes.csproj.CoreCompileInputs.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\FutureNotes\obj\Debug\FutureNotes.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\FutureNotes\obj\Debug\FutureNotes.pdb

@@ -1,0 +1,14 @@
+E:\dev\C#\iste\ders3\bin\Debug\net8.0\ders3.exe
+E:\dev\C#\iste\ders3\bin\Debug\net8.0\ders3.deps.json
+E:\dev\C#\iste\ders3\bin\Debug\net8.0\ders3.runtimeconfig.json
+E:\dev\C#\iste\ders3\bin\Debug\net8.0\ders3.dll
+E:\dev\C#\iste\ders3\bin\Debug\net8.0\ders3.pdb
+E:\dev\C#\iste\ders3\obj\Debug\net8.0\ders3.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\C#\iste\ders3\obj\Debug\net8.0\ders3.AssemblyInfoInputs.cache
+E:\dev\C#\iste\ders3\obj\Debug\net8.0\ders3.AssemblyInfo.cs
+E:\dev\C#\iste\ders3\obj\Debug\net8.0\ders3.csproj.CoreCompileInputs.cache
+E:\dev\C#\iste\ders3\obj\Debug\net8.0\ders3.dll
+E:\dev\C#\iste\ders3\obj\Debug\net8.0\refint\ders3.dll
+E:\dev\C#\iste\ders3\obj\Debug\net8.0\ders3.pdb
+E:\dev\C#\iste\ders3\obj\Debug\net8.0\ders3.genruntimeconfig.cache
+E:\dev\C#\iste\ders3\obj\Debug\net8.0\ref\ders3.dll

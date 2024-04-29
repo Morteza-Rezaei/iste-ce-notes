@@ -1,0 +1,10 @@
+E:\dev\C#\veri tabanlı destekli görsel programlama\AppointmentForm\bin\Debug\AppointmentForm.exe.config
+E:\dev\C#\veri tabanlı destekli görsel programlama\AppointmentForm\bin\Debug\AppointmentForm.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\AppointmentForm\bin\Debug\AppointmentForm.pdb
+E:\dev\C#\veri tabanlı destekli görsel programlama\AppointmentForm\obj\Debug\AppointmentForm.csproj.AssemblyReference.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\AppointmentForm\obj\Debug\AppointmentForm.Form1.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\AppointmentForm\obj\Debug\AppointmentForm.Properties.Resources.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\AppointmentForm\obj\Debug\AppointmentForm.csproj.GenerateResource.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\AppointmentForm\obj\Debug\AppointmentForm.csproj.CoreCompileInputs.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\AppointmentForm\obj\Debug\AppointmentForm.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\AppointmentForm\obj\Debug\AppointmentForm.pdb

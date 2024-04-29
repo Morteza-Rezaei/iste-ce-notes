@@ -1,0 +1,10 @@
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kitaplik\bin\Debug\Kitaplik.exe.config
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kitaplik\bin\Debug\Kitaplik.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kitaplik\bin\Debug\Kitaplik.pdb
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kitaplik\obj\Debug\Kitaplik.csproj.AssemblyReference.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kitaplik\obj\Debug\Kitaplik.Form1.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kitaplik\obj\Debug\Kitaplik.Properties.Resources.resources
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kitaplik\obj\Debug\Kitaplik.csproj.GenerateResource.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kitaplik\obj\Debug\Kitaplik.csproj.CoreCompileInputs.cache
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kitaplik\obj\Debug\Kitaplik.exe
+E:\dev\C#\veri tabanlı destekli görsel programlama\Kitaplik\obj\Debug\Kitaplik.pdb
